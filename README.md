@@ -14,8 +14,12 @@ Feito na linguagem Python, o jogo teve o intuito do estudo mais aprofundado da b
 - <b>IDE:</b> Visual Studio Code.
 
 ## Acesso ao Projeto
-Precisa apenas clonar o repositório do projeto e abrir o programa em sua IDE (Visual Studio Code de preferência).
-- "git clone <link do repositório>"
-
+- 1º Passo:
+  Clonar o repositório com o comando `git clone https://github.com/mtcorreia/snakeGame` no terminal.
+- 2º Passo:
+  Abrir o repositório em qualquer IDE (de preferência, Visual Studio Code) e aplicar o comando `pip install pygame` no terminal, para instalar os recursos usados no código da biblioteca PyGame.
+- 3º Passo:
+  Rodar o jogo ao clicar no `run`.
+  
 ## Autor
 - Matheus T. Correia - Link: (https://github.com/mtcorreia)
